@@ -28,8 +28,8 @@ python train.py trainer.gpus=<num_gpus> ckpt_name=datr dataset=<dataset name (dr
  Domain (Trained on)  | Accuracy | Checkpoint |
 | ------------- | ------------- | ------------- |
 | Natural  | 93.34  | [Download]()  |
-| Underwater  | 70.21  |[Download]()  |
-| Drone  | 98.92  |[Download]()  |
+| Underwater  | 70.21  |[Download](https://drive.google.com/file/d/143arS2FhvIZx-bxXeqdJ35bg3I5Fj1x3/view?usp=sharing)  |
+| Drone  | 98.92  |[Download](https://drive.google.com/file/d/1GbqFhTAhj1dVLpvAvyKHX0XbqtAJzjo7/view?usp=sharing)  |
 
 ### Testing
 
